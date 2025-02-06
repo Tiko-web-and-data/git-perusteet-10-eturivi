@@ -1,6 +1,9 @@
 <!DOCTYPE html>
 <html lang="en">
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 04aed0352a19311525d05cbcd7808771cb3d0be8
   <head>
     <meta name="author" content="Tiko-Teemu" />
     <meta name="keywords" content="html5, wpd, jamk, tiko, recipes" />
@@ -59,12 +62,24 @@
         <article>
           <h2>1. *opiskelijatunnus tähän* lempipitsa</h2>
 
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 04aed0352a19311525d05cbcd7808771cb3d0be8
           <p>
             <img
               src="pics/Eq_it-na_pizza-margherita_sep2005_sml.jpg"
               alt="Pizza"
             />
           </p>
+<<<<<<< HEAD
+=======
+=======
+        <main>
+            <article>
+                <h2>1. ag4039 lempipitsa</h2>
+>>>>>>> ag4039
+>>>>>>> 04aed0352a19311525d05cbcd7808771cb3d0be8
 
           <p>
             <strong>Ainesosat</strong>
@@ -77,6 +92,10 @@
             <li>Ainesosa 4</li>
           </ul>
 
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 04aed0352a19311525d05cbcd7808771cb3d0be8
           <div class="info">
             Written by Paula, published
             <time datetime="2014-10-06">06.10.2014 15:45</time>
@@ -85,6 +104,17 @@
         <hr />
         <article>
           <h2>2. *opiskelijatunnus tähän* lempipitsa</h2>
+<<<<<<< HEAD
+=======
+=======
+                <ul>
+                    <li>Ananas</li>
+                    <li>Kinkku</li>
+                    <li>Mozzarella</li>
+                    <li>BBQ</li>
+                </ul>
+>>>>>>> ag4039
+>>>>>>> 04aed0352a19311525d05cbcd7808771cb3d0be8
 
           <p><img src="pics/peperoni.jpeg" alt="Pizza" /></p>
 
@@ -179,6 +209,7 @@
       </footer>
     </div>
   </body>
+<<<<<<< HEAD
 =======
     <head>
         <meta name="author" content="Tiko-Teemu" />
@@ -360,4 +391,6 @@
         </div>
     </body>
 >>>>>>> AG4042
+=======
+>>>>>>> 04aed0352a19311525d05cbcd7808771cb3d0be8
 </html>
